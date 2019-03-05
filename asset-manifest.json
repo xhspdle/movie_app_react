@@ -1,0 +1,18 @@
+{
+  "main.css": "/movie_app_react/static/css/main.7a31c90b.chunk.css",
+  "main.js": "/movie_app_react/static/js/main.1775beab.chunk.js",
+  "main.js.map": "/movie_app_react/static/js/main.1775beab.chunk.js.map",
+  "runtime~main.js": "/movie_app_react/static/js/runtime~main.03f07a43.js",
+  "runtime~main.js.map": "/movie_app_react/static/js/runtime~main.03f07a43.js.map",
+  "static/js/2.27570d81.chunk.js": "/movie_app_react/static/js/2.27570d81.chunk.js",
+  "static/js/2.27570d81.chunk.js.map": "/movie_app_react/static/js/2.27570d81.chunk.js.map",
+  "index.html": "/movie_app_react/index.html",
+  "precache-manifest.df38f2b6e0cfb35c08686a0a5a6b7432.js": "/movie_app_react/precache-manifest.df38f2b6e0cfb35c08686a0a5a6b7432.js",
+  "service-worker.js": "/movie_app_react/service-worker.js",
+  "static/css/main.7a31c90b.chunk.css.map": "/movie_app_react/static/css/main.7a31c90b.chunk.css.map",
+  "static/media/frozen.jpg": "/movie_app_react/static/media/frozen.28f43c52.jpg",
+  "static/media/fullmetaljacket.jpg": "/movie_app_react/static/media/fullmetaljacket.08196c43.jpg",
+  "static/media/matrix.jpg": "/movie_app_react/static/media/matrix.bc3401a4.jpg",
+  "static/media/oldboy.jpg": "/movie_app_react/static/media/oldboy.92f9190a.jpg",
+  "static/media/starwars.jpg": "/movie_app_react/static/media/starwars.d0e73923.jpg"
+}
